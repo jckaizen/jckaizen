@@ -1,4 +1,4 @@
-<h1>I'm July, an <a href="https://linkedin.com/in/jckaizen">IT Professional</a>☺</h1>
+<h1>Hello there 👋, I'm July, an <a href="https://linkedin.com/in/jckaizen">IT Professional</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
