@@ -10,7 +10,7 @@
 	- [Configuring On-premises Active Directory within Azure VMs](https://github.com/jckaizen/azure-ad-port/blob/main/network_analysis_and_nsgs/README.md)
 	- [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jckaizen/osTicket-cycles/blob/main/prerequisties_and_installation/README.md)
 
-<h2>Semi-related Information Technology Projects:</h2>
+<h2>Semi-related Technology Projects:</h2>
 
 - <b>[Proxmox Home Server](https://www.google.com)</b>
 - <b>Data Science Projects</b>
@@ -22,4 +22,3 @@
 [<img align="left" alt="July | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/jckaizen
-
