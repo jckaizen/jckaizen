@@ -3,15 +3,21 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-	- [osTicket: Prerequisites and Installation]()
-	- [osTicket: Post-Installation Configuration]()
-	- [osTicket: Ticket Lifecycle Examples]()
+	- [osTicket: Prerequisites and Installation](https://github.com/jckaizen/osTicket-cycles/blob/main/prerequisties_and_installation/README.md)
+	- [osTicket: Post-Installation Configuration](https://github.com/jckaizen/osTicket-cycles/blob/main/post_installation/README.md)
+	- [osTicket: Ticket Lifecycle Examples](https://github.com/jckaizen/osTicket-cycles/blob/main/ticket_lifecycle/README.md)
 - <b>Microsoft Azure</b>
-	- [Configuring On-premises Active Directory within Azure VMs]()
-	- [Network Security Groups (NSGs) and Inspecting Network Protocols]()
-    
+	- [Configuring On-premises Active Directory within Azure VMs](https://github.com/jckaizen/azure-ad-port/blob/main/network_analysis_and_nsgs/README.md)
+	- [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jckaizen/osTicket-cycles/blob/main/prerequisties_and_installation/README.md)
+
+<h2>Semi-related Information Technology Projects:</h2>
+- <b>Proxmox Home Server</b>
+- <b>Data Science Projects</b>
+	- [Covid Project](https://github.com/jckaizen/Covid-project)
+	- [Cityspire App](https://github.com/jckaizen/PT17_cityspire-b-ds)
  <h2>Connect with me:</h2>
 
 [<img align="left" alt="July | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/jckaizen
+
