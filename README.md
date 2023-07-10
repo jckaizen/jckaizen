@@ -15,6 +15,7 @@
 - <b>Data Science Projects</b>
 	- [Covid Project](https://github.com/jckaizen/Covid-project)
 	- [Cityspire App](https://github.com/jckaizen/PT17_cityspire-b-ds)
+
  <h2>Connect with me:</h2>
 
 [<img align="left" alt="July | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
