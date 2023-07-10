@@ -11,8 +11,8 @@
 	- [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jckaizen/osTicket-cycles/blob/main/prerequisties_and_installation/README.md)
 
 <h2>Semi-related Information Technology Projects:</h2>
+
 - <b>Proxmox Home Server</b>
-	- 
 - <b>Data Science Projects</b>
 	- [Covid Project with Tableau and Postgres](https://github.com/jckaizen/Covid-project)
 	- [Cityspire App](https://github.com/jckaizen/PT17_cityspire-b-ds)
