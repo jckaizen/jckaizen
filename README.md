@@ -11,7 +11,7 @@
 
 <h2>Semi-related Technology Projects:</h2>
 
-- <b>[Proxmox Home Server](https://github.com/jckaizen/prox-home-server)</b>
+- <b>[Proxmox Home Server (Hypervisor)](https://github.com/jckaizen/prox-home-server)</b>
 - <b>Data Science Projects</b>
 	- [Covid Project with Tableau and Postgres](https://github.com/jckaizen/Covid-project)
 	- [Cityspire App](https://github.com/jckaizen/PT17_cityspire-b-ds)
