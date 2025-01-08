@@ -9,7 +9,7 @@
 	- [Configuring On-premises Active Directory within Azure VMs](https://github.com/jckaizen/azure-ad-port/tree/main/ad)
 	- [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jckaizen/azure-ad-port/tree/main/network_analysis_and_nsgs)
 
-<h2>Semi-related Technology Projects:</h2>
+<h2>Semi-related Projects:</h2>
 
 - <b>[Proxmox Home Server (Hypervisor)](https://github.com/jckaizen/prox-home-server)</b>
 - <b>Data Science Projects</b>
